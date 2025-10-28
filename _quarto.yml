@@ -1,0 +1,14 @@
+project:
+  type: website
+
+website:
+  navbar: 
+    background: "#94bcbe"
+    left: 
+      - index.qmd
+
+editor: visual
+
+format:
+  html:
+    linkcolor: "#213d4f"

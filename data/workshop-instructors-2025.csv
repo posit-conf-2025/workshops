@@ -1,0 +1,60 @@
+workshop,name,role,email
+Introduction to machine learning in R with tidymodels,Simon Couch,Instructor,simon.couch@posit.co
+Introduction to machine learning in R with tidymodels,Kristin Bott,TA,kristin.bott@posit.co
+Programming with LLM APIs: A Beginner’s Guide in R and Python,Joe Cheng,Instructor,joe@posit.co
+Programming with LLM APIs: A Beginner’s Guide in R and Python,Garrick Aden-Buie,Instructor,garrick@posit.co
+Programming with LLM APIs: A Beginner’s Guide in R and Python,Karan Gathani,TA,karan.gathani@posit.co
+Programming with LLM APIs: A Beginner’s Guide in R and Python,Julia Silge,TA,julia.silge@posit.co
+Programming with LLM APIs: A Beginner’s Guide in R and Python,Sam Clark,TA,sam.clark@posit.co
+Programming with LLM APIs: A Beginner’s Guide in R and Python,James Blair,TA,james@posit.co
+Programming with LLM APIs: A Beginner’s Guide in R and Python,Michael Beigelmacher,TA,michael.beigelmacher@posit.co
+Extending Quarto,Mine Çetinkaya-Rundel,Instructor,mine@posit.co
+Extending Quarto,Charlotte Wickham,Instructor,charlotte.wickham@posit.co
+Extending Quarto,Carlos Scheidegger,TA,carlos.scheidegger@posit.co
+Extending Quarto,Elliot Evans,TA,elliot.evans@posit.co
+Package Development: The Rest of the Owl,Jenny Bryan,Instructor,jenny@posit.co
+Package Development: The Rest of the Owl,Lionel Henry,TA,lionel@posit.co
+Mastering Data Visualization with ggplot2: Latest Techniques and Best Practices,Thomas Pedersen,Instructor,thomas.pedersen@posit.co
+Mastering Data Visualization with ggplot2: Latest Techniques and Best Practices,Teun Van den Brand,Instructor,teun.vandenbrand@posit.co
+Mastering Data Visualization with ggplot2: Latest Techniques and Best Practices,Kara Woo,TA,kara.woo@posit.co
+"Branded Websites, Presentations, Dashboards, and PDFs with Quarto",Isabella Velasquez,Instructor,isabella.velasquez@posit.co
+"Branded Websites, Presentations, Dashboards, and PDFs with Quarto",Sara Altman,Instructor,sara.altman@posit.co
+"Branded Websites, Presentations, Dashboards, and PDFs with Quarto",Gordon Woodhull,TA,gordon.woodhull@posit.co
+"Branded Websites, Presentations, Dashboards, and PDFs with Quarto",Christophe Dervieux,TA,cderv@posit.co
+Machine learning with scikit-learn in Python,Tiffany Timbers,Instructor,tiffany.timbers@stat.ubc.ca
+Machine learning with scikit-learn in Python,Katie Burak,Instructor,kburak@stat.ubc.ca
+Machine learning with scikit-learn in Python,Isabel Zimmerman,TA,isabel.zimmerman@posit.co
+From R User to R Programmer,Emma Rand,Instructor,emma.rand@york.ac.uk
+From R User to R Programmer,Ian Lyttle,Instructor,ijlyttle@icloud.com
+From R User to R Programmer,Garrett Grolemund,TA,garrett@posit.co
+Shiny for R,Colin Rundel,Instructor,rundel@gmail.com
+Shiny for R,Barret Schloerke,TA,barret@posit.co
+Shiny for Python,Daniel Chen,Instructor,daniel.chen@posit.co
+Shiny for Python,Liz Nelson,TA,liz.nelson@posit.co
+Shiny for Python,Michael Chow,TA,michael.chow@posit.co
+Causal Inference in R,Malcolm Barrett,Instructor,malcolmbarrett@gmail.com
+Causal Inference in R,Lucy D'Agostino McGowan,Instructor,mcgowald@wfu.edu
+Causal Inference in R,Carson Sievert,TA,carson@posit.co
+Causal Inference in R,Lisa Anders,TA,lisa.anders@posit.co
+R in Production,Hadley Wickham,Instructor,hadley@posit.co
+R in Production,Davis Vaughan,TA,davis@posit.co
+R in Production,Charlie Gao,TA,charlie.gao@posit.co
+R in Production,Tom Mock,TA,thomas@posit.co
+Getting More Out of Feature Engineering and Tuning for Machine Learning,Max Kuhn,Instructor,max@posit.co
+Getting More Out of Feature Engineering and Tuning for Machine Learning,Emil Hvitfeldt,Instructor,emil.hvitfeldt@posit.co
+Getting More Out of Feature Engineering and Tuning for Machine Learning,Edgar Ruiz,TA,edgar@posit.co
+Data Talks: How to make your data science accessible,Acacia Duncan,Instructor,acacia@articulationinc.com
+Data Talks: How to make your data science accessible,Blythe Coons,Instructor,blythe@articulationinc.com
+Data Talks: How to make your data science accessible,Ashley Henry,TA,ashley@posit.co
+Data Science Workflows with Posit Tools - R Focus,Sam Edwardes,Instructor,sam.edwardes@posit.co
+Data Science Workflows with Posit Tools - R Focus,Ryan Johnson,Instructor,ryan@posit.co
+Data Science Workflows with Posit Tools - R Focus,Kalau Pessamino-Tanaka,TA,kalau@posit.co
+End-to-End Submissions in R with the Pharmaverse,Daniel D. Sjoberg,Instructor,sjobergd@gene.com
+End-to-End Submissions in R with the Pharmaverse,Becca Krouse,Instructor,becca.z.krouse@gsk.com
+End-to-End Submissions in R with the Pharmaverse,Ben Straub,Instructor,ben.x.straub@gsk.com
+End-to-End Submissions in R with the Pharmaverse,Rammprasad Ganapathy,Instructor,ganapathy.rammprasad@gene.com
+End-to-End Submissions in R with the Pharmaverse,Phil Bowsher,TA,phil@posit.co
+Deploying reproducible analytics environments for regulated use cases,James Black,Instructor,james_alexander.black@novartis.com
+Deploying reproducible analytics environments for regulated use cases,Doug Kelkhoff,Instructor,doug.kelkhoff@roche.com
+Deploying reproducible analytics environments for regulated use cases,Michael Mayer,Instructor,michael.mayer@posit.co
+Deploying reproducible analytics environments for regulated use cases,Rafael Pereira,Instructor,rafael.pereira@appsilon.com

@@ -1,0 +1,32 @@
+---
+title: "posit::conf(2025) workshops"
+---
+
+```{r}
+#| echo: false
+#| message: false
+library(tidyverse)
+library(gt)
+workshops <- read_csv("data/workshops-2025.csv")
+workshop_instructors <- read_csv("data/workshop-instructors-2025.csv")
+workshop_info <- workshops |>
+  left_join(
+    workshop_instructors |>
+      filter(role == "Instructor") |>
+      select(workshop, name),
+    by = join_by(title == workshop)
+  ) |>
+  group_by(title) |>
+  summarize(
+    url = unique(url),
+    instructor = paste(name, collapse = ", "),
+  ) |>
+  mutate(workshop = paste0("[", title, "](", url, ")")) |>
+  select(workshop, instructor)
+gt(workshop_info) |>
+  fmt_markdown(columns = workshop) |>
+  cols_label(
+    workshop = "Workshop",
+    instructor = "Instructor(s)"
+  )
+```
