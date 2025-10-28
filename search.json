@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "posit::conf(2025) workshops",
+    "section": "",
+    "text": "Workshop\nInstructor(s)\n\n\n\n\nBranded Websites, Presentations, Dashboards, and PDFs with Quarto\nIsabella Velasquez, Sara Altman\n\n\nCausal Inference in R\nMalcolm Barrett, Lucy D'Agostino McGowan\n\n\nData Science Workflows with Posit Tools - R Focus\nSam Edwardes, Ryan Johnson\n\n\nData Talks: How to make your data science accessible\nAcacia Duncan, Blythe Coons\n\n\nDeploying reproducible analytics environments for regulated use cases\nJames Black, Doug Kelkhoff, Michael Mayer, Rafael Pereira\n\n\nEnd-to-End Submissions in R with the Pharmaverse\nDaniel D. Sjoberg, Becca Krouse, Ben Straub, Rammprasad Ganapathy\n\n\nExtending Quarto\nMine Çetinkaya-Rundel, Charlotte Wickham\n\n\nFrom R User to R Programmer\nEmma Rand, Ian Lyttle\n\n\nGetting More Out of Feature Engineering and Tuning for Machine Learning\nMax Kuhn, Emil Hvitfeldt\n\n\nIntroduction to machine learning in R with tidymodels\nSimon Couch\n\n\nMachine learning with scikit-learn in Python\nTiffany Timbers, Katie Burak\n\n\nMastering Data Visualization with ggplot2: Latest Techniques and Best Practices\nThomas Pedersen, Teun Van den Brand\n\n\nPackage Development: The Rest of the Owl\nJenny Bryan\n\n\nProgramming with LLM APIs: A Beginner’s Guide in R and Python\nJoe Cheng, Garrick Aden-Buie\n\n\nR in Production\nHadley Wickham\n\n\nShiny for Python\nDaniel Chen\n\n\nShiny for R\nColin Rundel"
+  }
+]
